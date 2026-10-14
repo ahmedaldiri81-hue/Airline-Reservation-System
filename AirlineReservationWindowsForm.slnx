@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BusinessAirlineLayer/BusinessAirlineLayer.csproj" Id="22090981-ed8a-4fb2-82b7-7efd5d72a6e5" />
+  <Project Path="../DataAccessAirlineLayer/DataAccessAirlineLayer.csproj" Id="8b9e8f68-5622-47a4-ba79-2e1cb82e9d84" />
+  <Project Path="AirlineReservationWindowsForm.csproj" Id="854c5b38-ebc1-4e5e-b8cd-76cfe3decc6c" />
+</Solution>
